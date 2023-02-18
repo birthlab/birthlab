@@ -1,4 +1,4 @@
-### Website for BIRTH
+### Website of Lab for Brain Imaging Research at Tsinghua University
 
 <!--
 **birthlab/birthlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
