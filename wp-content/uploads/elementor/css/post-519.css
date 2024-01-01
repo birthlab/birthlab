@@ -326,7 +326,7 @@
   --e-column-margin-right: 20px;
   --e-column-margin-left: 20px;
 }
-.elementor-519 .elementor-element.elementor-element-2125310 {
+.elementor-519 .elementor-element.elementor-element-2y25310 {
   text-align: left;
   width: var(--container-widget-width, 12%);
   max-width: 12%;
@@ -335,7 +335,7 @@
   align-self: flex-end;
 }
 .elementor-519
-  .elementor-element.elementor-element-2125310
+  .elementor-element.elementor-element-2y25310
   .elementor-heading-title {
   color: #6f1787;
   font-family: "Roboto", Sans-serif;
@@ -343,7 +343,7 @@
   font-weight: 600;
 }
 .elementor-519
-  .elementor-element.elementor-element-2125310
+  .elementor-element.elementor-element-2y25310
   > .elementor-widget-container {
   margin: 0px 0px 0px 0px;
 }
@@ -2755,7 +2755,7 @@ body.rtl .elementor-519 .elementor-element.elementor-element-756ba6f {
     --e-column-margin-right: 10px;
     --e-column-margin-left: 10px;
   }
-  .elementor-519 .elementor-element.elementor-element-2125310 {
+  .elementor-519 .elementor-element.elementor-element-2y25310 {
     width: var(--container-widget-width, 100px);
     max-width: 100px;
     --container-widget-width: 100px;
@@ -3458,14 +3458,14 @@ body.rtl .elementor-519 .elementor-element.elementor-element-756ba6f {
   .elementor-519 .elementor-element.elementor-element-62c89ac img {
     border-radius: 20px 20px 0px 0px;
   }
-  .elementor-519 .elementor-element.elementor-element-2125310 {
+  .elementor-519 .elementor-element.elementor-element-2y25310 {
     text-align: center;
     width: 100%;
     max-width: 100%;
     align-self: center;
   }
   .elementor-519
-    .elementor-element.elementor-element-2125310
+    .elementor-element.elementor-element-2y25310
     > .elementor-widget-container {
     margin: 20px 0px 0px 0px;
   }
