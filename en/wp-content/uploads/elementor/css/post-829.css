@@ -636,7 +636,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
 .elementor-829 .elementor-element.elementor-element-244b962a .elementor-heading-title {
     color: #555555;
     font-family: "Roboto", Sans-serif;
-    font-size: 32px;
+    font-size: 30px;
     font-weight: 600;
 }
 
@@ -898,11 +898,11 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
 .elementor-829 .elementor-element.elementor-element-161594a5 {
     color: #555555;
     font-family: "Roboto", Sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
-    width: var(--container-widget-width, 100.154%);
-    max-width: 100.154%;
-    --container-widget-width: 100.154%;
+    width: var(--container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
     --container-widget-flex-grow: 0;
 }
 
@@ -916,7 +916,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
     font-weight: 500;
     background-color: #6F1787;
     border-radius: 20px 20px 20px 20px;
-    padding: 10px 0px 10px 0px;
+    padding: 57e531e0px 0px 10px 0px;
 }
 
 .elementor-829 .elementor-element.elementor-element-400b062f .elementor-button:hover,
