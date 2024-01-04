@@ -323,12 +323,13 @@
 .elementor-14 .elementor-element.elementor-element-97f00d1 .elementor-heading-title {
     color: #6F1787;
     font-family: "Roboto", Sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
+    line-height: 1.2em;
 }
 
 .elementor-14 .elementor-element.elementor-element-97f00d1>.elementor-widget-container {
-    margin: 20px 20px 0px 20px;
+    margin: 20px 20px 10px 20px;
 }
 
 .elementor-14 .elementor-element.elementor-element-5083c4b {
@@ -1088,7 +1089,7 @@
     }
 
     .elementor-14 .elementor-element.elementor-element-97f00d1>.elementor-widget-container {
-        margin: 20px 20px 0px 20px;
+        margin: 20px 20px 10px 20px;
     }
 
     .elementor-14 .elementor-element.elementor-element-5083c4b {
@@ -1277,7 +1278,7 @@
     }
 
     .elementor-14 .elementor-element.elementor-element-97f00d1>.elementor-widget-container {
-        margin: 20px 20px 20px 20px;
+        margin: 20px 20px 10px 20px;
     }
 
     .elementor-14 .elementor-element.elementor-element-5083c4b {

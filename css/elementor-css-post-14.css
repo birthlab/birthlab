@@ -270,23 +270,25 @@
 .elementor-14 .elementor-element.elementor-element-185fce8a .elementor-heading-title {
     color: #6F1787;
     font-family: "Roboto", Sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
+    line-height: 1.2em;
 }
 
 .elementor-14 .elementor-element.elementor-element-185fce8a>.elementor-widget-container {
-    margin: 20px 20px 0px 20px;
+    margin: 20px 20px 10px 20px;
 }
 
 .elementor-14 .elementor-element.elementor-element-6dfc01a {
     color: #666666;
     font-family: "Roboto", Sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
+    line-height: 1.2em;
 }
 
 .elementor-14 .elementor-element.elementor-element-6dfc01a>.elementor-widget-container {
-    margin: 0px 20px 0px 20px;
+    margin: 0px 20px 20px 20px;
 }
 
 .elementor-14 .elementor-element.elementor-element-bacd022:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
@@ -311,9 +313,9 @@
 
 .elementor-14 .elementor-element.elementor-element-bacd022>.elementor-element-populated {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    margin: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 10px;
     --e-column-margin-right: 0px;
-    --e-column-margin-left: 0px;
+    --e-column-margin-left: 10px;
 }
 
 .elementor-14 .elementor-element.elementor-element-bacd022>.elementor-element-populated>.elementor-background-overlay {
@@ -331,23 +333,25 @@
 .elementor-14 .elementor-element.elementor-element-97f00d1 .elementor-heading-title {
     color: #6F1787;
     font-family: "Roboto", Sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
+    line-height: 1.2em;
 }
 
 .elementor-14 .elementor-element.elementor-element-97f00d1>.elementor-widget-container {
-    margin: 20px 20px 0px 20px;
+    margin: 20px 20px 10px 20px;
 }
 
 .elementor-14 .elementor-element.elementor-element-5083c4b {
     color: #666666;
     font-family: "Roboto", Sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
+    line-height: 1.2em;
 }
 
 .elementor-14 .elementor-element.elementor-element-5083c4b>.elementor-widget-container {
-    margin: 0px 20px 0px 20px;
+    margin: 0px 20px 20px 20px;
 }
 
 .elementor-14 .elementor-element.elementor-element-7c1532a .elementor-button {
@@ -1072,39 +1076,39 @@
     }
 
     .elementor-14 .elementor-element.elementor-element-5950303>.elementor-element-populated {
-        margin: 0px 10px 0px 10px;
+        margin: 0px 10px 0px 0px;
         --e-column-margin-right: 10px;
-        --e-column-margin-left: 10px;
+        --e-column-margin-left: 0px;
     }
 
     .elementor-14 .elementor-element.elementor-element-185fce8a>.elementor-widget-container {
-        margin: 20px 20px 0px 20px;
+        margin: 20px 20px 10px 20px;
     }
 
     .elementor-14 .elementor-element.elementor-element-6dfc01a {
-        line-height: 1.3em;
+        line-height: 1.2em;
     }
 
     .elementor-14 .elementor-element.elementor-element-6dfc01a>.elementor-widget-container {
-        margin: 10px 20px 10px 20px;
+        margin: 0px 20px 20px 20px;
     }
 
     .elementor-14 .elementor-element.elementor-element-bacd022>.elementor-element-populated {
-        margin: 0px 10px 0px 10px;
-        --e-column-margin-right: 10px;
+        margin: 0px 0px 0px 10px;
+        --e-column-margin-right: 0px;
         --e-column-margin-left: 10px;
     }
 
     .elementor-14 .elementor-element.elementor-element-97f00d1>.elementor-widget-container {
-        margin: 20px 20px 0px 20px;
+        margin: 20px 20px 10px 20px;
     }
 
     .elementor-14 .elementor-element.elementor-element-5083c4b {
-        line-height: 1.3em;
+        line-height: 1.2em;
     }
 
     .elementor-14 .elementor-element.elementor-element-5083c4b>.elementor-widget-container {
-        margin: 10px 20px 10px 20px;
+        margin: 0px 20px 20px 20px;
     }
 
     .elementor-14 .elementor-element.elementor-element-1e48375>.elementor-element-populated {
@@ -1253,9 +1257,9 @@
     }
 
     .elementor-14 .elementor-element.elementor-element-5950303>.elementor-element-populated {
-        margin: 0px 10px 10px 10px;
+        margin: 0px 10px 0px 0px;
         --e-column-margin-right: 10px;
-        --e-column-margin-left: 10px;
+        --e-column-margin-left: 0px;
     }
 
     .elementor-14 .elementor-element.elementor-element-185fce8a .elementor-heading-title {
@@ -1263,11 +1267,12 @@
     }
 
     .elementor-14 .elementor-element.elementor-element-185fce8a>.elementor-widget-container {
-        margin: 20px 20px 20px 20px;
+        margin: 20px 20px 10px 20px;
     }
 
     .elementor-14 .elementor-element.elementor-element-6dfc01a {
         font-size: 18px;
+        line-height: 1.2em;
     }
 
     .elementor-14 .elementor-element.elementor-element-6dfc01a>.elementor-widget-container {
@@ -1275,8 +1280,8 @@
     }
 
     .elementor-14 .elementor-element.elementor-element-bacd022>.elementor-element-populated {
-        margin: 0px 10px 0px 10px;
-        --e-column-margin-right: 10px;
+        margin: 0px 0px 0px 10px;
+        --e-column-margin-right: 0px;
         --e-column-margin-left: 10px;
     }
 
@@ -1285,7 +1290,7 @@
     }
 
     .elementor-14 .elementor-element.elementor-element-97f00d1>.elementor-widget-container {
-        margin: 20px 20px 20px 20px;
+        margin: 20px 20px 10px 20px;
     }
 
     .elementor-14 .elementor-element.elementor-element-5083c4b {
@@ -1542,11 +1547,11 @@
     }
 
     .elementor-14 .elementor-element.elementor-element-5950303 {
-        width: 67%;
+        width: 50%;
     }
 
     .elementor-14 .elementor-element.elementor-element-bacd022 {
-        width: 33%;
+        width: 50%;
     }
 
     .elementor-14 .elementor-element.elementor-element-e33d322 {

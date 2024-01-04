@@ -829,6 +829,7 @@
 
 .elementor-883 .elementor-element.elementor-element-6cf3cd40>.elementor-element-populated {
     padding: 0px 0px 0px 0px;
+    align-self: flex-start;
 }
 
 .elementor-883 .elementor-element.elementor-element-29d763bd>.elementor-container>.elementor-column>.elementor-widget-wrap {
@@ -1016,6 +1017,7 @@
     margin: 50px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
+    align-self: flex-start;
 }
 
 .elementor-883 .elementor-element.elementor-element-326bca07>.elementor-widget-container {
@@ -1049,12 +1051,35 @@
     --e-column-margin-right: 0px;
     --e-column-margin-left: 40px;
     padding: 0px 0px 0px 0px;
+    align-self: flex-start;
 }
 
 .elementor-883 .elementor-element.elementor-element-68f46ad2>.elementor-element-populated {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
+    align-self: flex-start;
+}
+
+.elementor-883 .elementor-element.elementor-element-6574be0c>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    align-self: flex-start;
+}
+
+.elementor-883 .elementor-element.elementor-element-76cc8fff>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    align-self: flex-start;
+}
+
+.elementor-883 .elementor-element.elementor-element-3914bfe8>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    align-self: flex-start;
 }
 
 .elementor-883 .elementor-element.elementor-element-4b912cc7 .elementor-heading-title {
@@ -1633,6 +1658,7 @@
         margin: 0px 0px 0px 20px;
         --e-column-margin-right: 0px;
         --e-column-margin-left: 20px;
+        align-self: flex-start;
     }
 
     .elementor-883 .elementor-element.elementor-element-29d763bd>.elementor-container {
@@ -1680,6 +1706,7 @@
         margin: 20px 20px 20px 20px;
         --e-column-margin-right: 20px;
         --e-column-margin-left: 20px;
+        align-self: flex-start;
     }
 
     .elementor-883 .elementor-element.elementor-element-75420b77 {
@@ -2177,6 +2204,7 @@
         margin: 0px 0px 0px 0px;
         --e-column-margin-right: 0px;
         --e-column-margin-left: 0px;
+        align-self: flex-start;
     }
 
     .elementor-bc-flex-widget .elementor-883 .elementor-element.elementor-element-6b161999.elementor-column .elementor-widget-wrap {
@@ -2264,6 +2292,7 @@
         margin: 20px 0px 20px 0px;
         --e-column-margin-right: 0px;
         --e-column-margin-left: 0px;
+        align-self: flex-start;
     }
 
     .elementor-883 .elementor-element.elementor-element-326bca07 {
@@ -2278,6 +2307,7 @@
         margin: 0px 0px 0px 0px;
         --e-column-margin-right: 0px;
         --e-column-margin-left: 0px;
+        align-self: flex-start;
     }
 }
 

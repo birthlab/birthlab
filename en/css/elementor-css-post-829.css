@@ -8653,6 +8653,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
 
 .elementor-829 .elementor-element.elementor-element-442bd037>.elementor-element-populated {
     padding: 0px 0px 0px 0px;
+    align-self: flex-start;
 }
 
 .elementor-829 .elementor-element.elementor-element-3f83dd76>.elementor-container>.elementor-column>.elementor-widget-wrap {
@@ -8840,6 +8841,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
     margin: 50px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
+    align-self: flex-start;
 }
 
 .elementor-829 .elementor-element.elementor-element-22752e33 {
@@ -8875,6 +8877,21 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
     margin: 0px 0px 0px 0px;
     --e-column-margin-right: 0px;
     --e-column-margin-left: 0px;
+    align-self: flex-start;
+}
+
+.elementor-829 .elementor-element.elementor-element-76d76a24>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    align-self: flex-start;
+}
+
+.elementor-829 .elementor-element.elementor-element-52f4b9f1>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    align-self: flex-start;
 }
 
 .elementor-829 .elementor-element.elementor-element-27d9f1c8 .elementor-heading-title {
@@ -10011,6 +10028,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
         margin: 0px 0px 0px 20px;
         --e-column-margin-right: 0px;
         --e-column-margin-left: 20px;
+        align-self: flex-start;
     }
 
     .elementor-829 .elementor-element.elementor-element-3f83dd76>.elementor-container {
@@ -11544,6 +11562,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
         margin: 0px 0px 0px 0px;
         --e-column-margin-right: 0px;
         --e-column-margin-left: 0px;
+        align-self: flex-start;
     }
 
     .elementor-bc-flex-widget .elementor-829 .elementor-element.elementor-element-2ae3aa73.elementor-column .elementor-widget-wrap {
@@ -11631,6 +11650,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
         margin: 20px 0px 20px 0px;
         --e-column-margin-right: 0px;
         --e-column-margin-left: 0px;
+        align-self: flex-start;
     }
 
     .elementor-829 .elementor-element.elementor-element-22752e33 {
@@ -11810,7 +11830,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
     }
 
     .elementor-829 .elementor-element.elementor-element-442bd037 {
-        width: 50%;
+        width: 33%;
     }
 
     .elementor-829 .elementor-element.elementor-element-2ae3aa73 {
