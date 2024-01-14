@@ -86,6 +86,7 @@
     background-color: #6F1787;
     border-radius: 20px 20px 20px 20px;
     padding: 10px 30px 10px 30px;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.7);
 }
 
 .elementor-330 .elementor-element.elementor-element-1970423 .elementor-button:hover,
@@ -111,7 +112,8 @@ body.rtl .elementor-330 .elementor-element.elementor-element-1970423 {
 .elementor-330 .elementor-element.elementor-element-08795a6 .elementor-button {
     background-color: #6F1787;
     border-radius: 20px 20px 20px 20px;
-    padding: 10px 10px 10px 10px;
+    padding: 10px 30px 10px 30px;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.7);
 }
 
 .elementor-330 .elementor-element.elementor-element-08795a6 .elementor-button:hover,
@@ -138,6 +140,7 @@ body.rtl .elementor-330 .elementor-element.elementor-element-08795a6 {
     background-color: #6F1787;
     border-radius: 20px 20px 20px 20px;
     padding: 10px 30px 10px 30px;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.7);
 }
 
 .elementor-330 .elementor-element.elementor-element-84768f9 .elementor-button:hover,
@@ -164,6 +167,7 @@ body.rtl .elementor-330 .elementor-element.elementor-element-84768f9 {
     background-color: #6F1787;
     border-radius: 20px 20px 20px 20px;
     padding: 10px 30px 10px 30px;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.7);
 }
 
 .elementor-330 .elementor-element.elementor-element-d786072 .elementor-button:hover,
@@ -190,6 +194,7 @@ body.rtl .elementor-330 .elementor-element.elementor-element-d786072 {
     background-color: #6F1787;
     border-radius: 20px 20px 20px 20px;
     padding: 10px 30px 10px 30px;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.7);
 }
 
 .elementor-330 .elementor-element.elementor-element-bbd95ee .elementor-button:hover,
