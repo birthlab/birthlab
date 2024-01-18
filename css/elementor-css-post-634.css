@@ -1291,8 +1291,8 @@
 
 @media(max-width:1024px) {
     .elementor-634 .elementor-element.elementor-element-80faf88 {
-        width: var(--container-widget-width, 95px);
-        max-width: 95px;
+        width: var(--container-widget-width, 115px);
+        max-width: 115px;
         --container-widget-width: 95px;
         --container-widget-flex-grow: 0;
     }
@@ -1375,9 +1375,9 @@
     }
     
     .elementor-634 .elementor-element.elementor-element-80faf88 {
-        width: var(--container-widget-width, 95px);
-        max-width: 95px;
-        --container-widget-width: 95px;
+        width: var(--container-widget-width, 115px);
+        max-width: 115px;
+        --container-widget-width: 115px;
         --container-widget-flex-grow: 0;
     }
 
