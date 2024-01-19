@@ -920,7 +920,17 @@ body.rtl .elementor-829 .elementor-element.elementor-element-15fb9795 {
     font-family: "Roboto", Sans-serif;
     font-weight: 600;
     font-size: 20px;
-    line-height: 1.15em;
+    line-height: 1.2em;
+}
+
+.elementor-829 .elementor-element.elementor-element-57e531e0 .elementor-heading-title:hover,
+.elementor-829 .elementor-element.elementor-element-57e531e0 .elementor-heading-title:focus {
+    color: #CA0D0D;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.2em;
 }
 
 .elementor-829 .elementor-element.elementor-element-57e531e0>.elementor-widget-container {

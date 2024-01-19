@@ -942,7 +942,17 @@ body.rtl .elementor-330 .elementor-element.elementor-element-bbd95ee {
     font-family: "Roboto", Sans-serif;
     font-weight: 600;
     font-size: 20px;
-    line-height: 1.1em;
+    line-height: 1.2em;
+}
+
+.elementor-330 .elementor-element.elementor-element-25a653a .elementor-heading-title:hover,
+.elementor-330 .elementor-element.elementor-element-25a653a .elementor-heading-title:focus {
+    color: #CA0D0D;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.2em;
 }
 
 .elementor-330 .elementor-element.elementor-element-25a653a>.elementor-widget-container {
@@ -3553,6 +3563,7 @@ body.rtl .elementor-330 .elementor-element.elementor-element-bbd95ee {
     font-weight: 600;
     line-height: 1.2em;
 }
+
 
 .elementor-330 .elementor-element.elementor-element-a1ada5c>.elementor-widget-container {
     margin: 0px 0px 5px 0px;
