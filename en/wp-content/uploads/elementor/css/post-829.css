@@ -126,7 +126,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-583c3fa1 {
     max-width: 6em;
     --container-widget-width: 6em;
     --container-widget-flex-grow: 0;
-    top: 480px;
+    top: 520px;
     z-index: 9999;
 }
 
@@ -166,6 +166,36 @@ body.rtl .elementor-829 .elementor-element.elementor-element-243182d6 {
     right: 20px;
 }
 
+
+.elementor-829 .elementor-element.elementor-element-243182a1 .elementor-button {
+    background-color: #6F1787;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 0px 10px 0px;
+}
+
+.elementor-829 .elementor-element.elementor-element-243182a1 .elementor-button:hover,
+.elementor-829 .elementor-element.elementor-element-243182a1 .elementor-button:focus {
+    background-color: #D30000;
+}
+
+.elementor-829 .elementor-element.elementor-element-243182a1 {
+    width: var(--container-widget-width, 6em);
+    max-width: 6em;
+    --container-widget-width: 6em;
+    --container-widget-flex-grow: 0;
+    top: 480px;
+    z-index: 9999;
+}
+
+body:not(.rtl) .elementor-829 .elementor-element.elementor-element-243182a1 {
+    left: 20px;
+}
+
+body.rtl .elementor-829 .elementor-element.elementor-element-243182a1 {
+    right: 20px;
+}
+
+
 .elementor-829 .elementor-element.elementor-element-6cb8bb9 .elementor-button {
     background-color: #6F1787;
     border-radius: 20px 20px 20px 20px;
@@ -182,7 +212,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-243182d6 {
     max-width: 6em;
     --container-widget-width: 6em;
     --container-widget-flex-grow: 0;
-    top: 520px;
+    top: 560px;
     z-index: 9999;
 }
 
@@ -210,7 +240,7 @@ body.rtl .elementor-829 .elementor-element.elementor-element-6cb8bb9 {
     max-width: 6em;
     --container-widget-width: 6em;
     --container-widget-flex-grow: 0;
-    top: 560px;
+    top: 600px;
     z-index: 9999;
 }
 
